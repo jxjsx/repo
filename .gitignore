@@ -1,1 +1,3 @@
 #gitignore
+[Dd]ebug/
+[Rr]elease/
